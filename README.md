@@ -12,16 +12,20 @@
 * [Lab 5](labs/lab-05.md)
 * [Lab 6](labs/lab-06.md)
 
+---
 
-## Assignments
+## Class Projects - Group Presentation
 
-* [assignment 1](assignments/assignment-1.md)
-* [assignment 2](assignments/assignment-2.md)
+### Project 1
+* [Project: Software Development Current Event Topic](Project_Scope_Software_Dev.md)
 
-## Resources
+### Project 2
+* [Project: Artificial Intelligence Current Event Topics](project_ai_current_event.md)
 
+---
+## Reference Material
 
-
+* [Essential Git Commands and Terms](GIt_Command_Terms.md)
 
 
 
