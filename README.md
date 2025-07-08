@@ -17,7 +17,7 @@
 ## Class Projects - Group Presentation
 
 ### Project 1
-* [Project: Software Development Current Event Topic](Project_Scope_Software_Dev.md)
+* [Project: Software Development Current Event Topic](project/project-software-development.md)
 
 ### Project 2
 * [Project: Artificial Intelligence Current Event Topics](project_ai_current_event.md)
