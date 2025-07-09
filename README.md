@@ -1,6 +1,7 @@
 # Coursename
 
-* [Course Addenda](addenda.md)
+* [Course Addenda](https://syl.senecapolytechnic.ca/)
+* [Course Notes]
 
 ## Labs
 
