@@ -1,7 +1,7 @@
 # Coursename
 
 * [Course Addenda](https://syl.senecapolytechnic.ca/)
-* [Course Notes]
+* [Course Notes](https://seneca-ictoer.github.io/essential-tooling-for-programmers/)
 
 ## Labs
 
